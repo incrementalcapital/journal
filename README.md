@@ -1,3 +1,3 @@
-# Incremental Coin Journal
+# Incremental Coin Journal Github Repository
 
-A journal of a cryptocurrency researcher's quest to gradually finance future consumption of desired goods and services through steadily trading options and futures.
+This is the Github repository for the Incremental Capital [website](https://incremental.capital/).
