@@ -30,7 +30,7 @@ Tax liabilities are part of the truth. A trader's financial position is indeterm
 
 ## The Subsistence Option
 
-I survive trading cryptocurrencies for a living and the CME offers a tax-friendly subsistence option. Certainly, decentralized platforms will replace the CME someday. However, until that day comes I can depend on [E*Trade](https://us.etrade.com/), [Tastyworks](https://tastyworks.com/) and [TD Ameritrade](https://www.tdameritrade.com/) to prepare 1099s so that my accountant can prepare 8949s.
+I survive trading cryptocurrencies for a living and the CME offers a tax-friendly subsistence option. Certainly, decentralized platforms will replace the CME someday. However, until that day comes I can depend on [E*Trade](https://us.etrade.com/), [Tastyworks](https://start.tastyworks.com/#/login?referralCode=TY6CPRN2F6) and [TD Ameritrade](https://www.tdameritrade.com/) to prepare 1099s so that my accountant can prepare 8949s.
 
 That's the price I have to pay for being domiciled in the United States of America.
 
