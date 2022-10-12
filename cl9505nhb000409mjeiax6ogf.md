@@ -1,6 +1,6 @@
 # The Subsistence Option
 
-*"Coming in from the cold..." - [Bob Marley and the Wailers](https://www.youtube.com/watch?v=EF0Jtl-dpyE)."*
+*"Coming in from the cold..." - [Bob Marley and the Wailers](https://www.youtube.com/watch?v=EF0Jtl-dpyE)*
 
 __________
 
