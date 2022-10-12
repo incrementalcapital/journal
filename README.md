@@ -1,5 +1,5 @@
-# Incremental Coin Journal Github Repository
+# Journal Repository
 
 ![incremental capital banner image](/incremental-capital-header.png)
 
-This is the Github repository for the Incremental Capital [website](https://incremental.capital/).
+This is the Github repository for Incremental Capital's [Coin Accumulation Journal](https://incremental.capital/).
