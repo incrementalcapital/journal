@@ -14,7 +14,7 @@ They definitely have the supply curve right. Bitcoin's fixed supply makes it a d
 
 Economic value is the intersection of supply and demand. Bitcoin is **commodity money**. Like all commodities, it loses value when demand falls. Therefore, bitcoin's purchasing power is always a function of demand.
 
-It's true that demand for bitcoin may skyrocket in the future. But present economic conditions must be a concern for a cryptocurrency that are purely a substitute for money.
+It's true that demand for bitcoin may skyrocket in the future. But present economic conditions must be a concern for a cryptocurrency that is purely a substitute for money.
 
 ## Current Economic Conditions
 
