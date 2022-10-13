@@ -14,7 +14,7 @@ They definitely have the supply curve right. Bitcoin's fixed supply makes it a d
 
 Economic value is the intersection of supply and demand. Bitcoin is **commodity money**. Like all commodities, it loses value when demand falls. Therefore, bitcoin's purchasing power is always a function of demand.
 
-It's true that demand for bitcoin may skyrocket in the future. But present economic conditions must be a concern for a cryptocurrency that is purely a substitute for money.
+It's true that demand for bitcoin may skyrocket in the future. However, present economic conditions must be a concern for a cryptocurrency that is purely a substitute for money.
 
 ## Current Economic Conditions
 
@@ -54,35 +54,35 @@ Gold had luster as a commodity money because society actually used it to settle 
 
 [Bitcoin futures contracts](https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin.quotes.html) are in **normal backwardation** today and it's likely that they will continue to be tomorrow. Normal backwardation means that the price of the futures contract is lower than the spot price. [2]
 
-This **term structure** expresses bearish sentiment. Meaning that market participants expect the price of bitcoin to drop by the end of term (i.e. October this year). They are selling the October contract. Whether their goal is to hedge or speculate, they want to buy Bitcoin at the lower price that they are anticipating.
+This **term structure** expresses bearish sentiment. Meaning that market participants expect the price of bitcoin to drop by the end of term (i.e. October this year). They are selling the October contract. Whether their goal is to hedge or speculate, they want to buy/possess Bitcoin at the anticipated lower price.
 
 Even if central banks resumed quantitative easing, backwardation would persist beyond October. Maximalists are bullish. However, the downward price trend is likely continue for an extended period because bitcoin is useless. 
 
-**Contango** means that the futures price of bitcoin is higher than the spot price. Bitcoin futures were generally in contango in 2019.  Those were the *golden* days of bitcoin. The pun is intentional, but in all seriousness, bitcoin's mettle as an inflation hedge had never been tested.
+**Contango** means that the futures price of bitcoin is higher than the spot price. Bitcoin futures were generally in contango in 2019.  Those were the *golden* days of bitcoin. The pun is intentional, but in all seriousness, bitcoin's mettle as an inflation hedge had never been tested then.
 
-Things are different now. The broken flywheel is no longer a secret. With banks everywhere tightening the supply of money and simultaneously raising interest rates, why would anyone want to hold bitcoin?
+Things are different now. The broken flywheel is no longer a secret. With banks everywhere tightening the supply of money and simultaneously raising interest rates, why would anyone want to hold bitcoin now?
 
 Bitcoin doesn't even earn interest.
 
 The US dollar not only earns interest, but also appreciates given the present macroeconomic environment. The Federal Reserve System, the central bank of the United States of America, has declared ad infinitum that it will tighten until the economy breaks.
 
-Even if the economy goes through the windshield, people aren't going to start using Bitcoin more when it does. 
+Even if [the economy goes through the windshield](https://www.youtube.com/watch?v=veKlE6qGeFw), people aren't going to start using Bitcoin more when it does. 
 
-The bitcoin futures market is still fairly **normal** but don't be misled. The market is considered "normal" when futures prices are higher at longer maturities. For example, the forward price of bitcoin in the March contract is higher than the forward price in the February contract in the graph below.
+The bitcoin futures market is still fairly **normal** but don't be misled. The market is considered "normal" when futures prices are higher at longer maturities. For example, the [forward price](https://www.investopedia.com/ask/answers/042315/what-difference-between-forward-rate-and-spot-rate.asp#:~:text=In%20general%2C%20a%20spot%20rate,or%20%22on%20the%20spot%22) of bitcoin in the March contract is higher than the forward price in the February contract in the graph below.
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665618114907/C_3HiITN6.png align="left")
 
-It would be abnormal for futures prices to be lower at longer maturities. The market is **inverted** when that happens. Indeed, the market is very slightly inverted between October 2022 and November 2022. Those forward prices indicate abnormality.
+It would be abnormal for futures prices to be lower at longer maturities. The market is **inverted** when that happens. Yet the market is very slightly inverted between October 2022 and November 2022. Those forward prices indicate abnormality.
 
-Futures markets will invert if there are supply shortages driving up the spot price (of crude oil for example). However, the futures market for bitcoin is immune to supply shortages. As previously established, the supply of bitcoin is essentially fixed.
+Futures markets will invert if there are supply shortages driving up the [spot price](https://www.investopedia.com/ask/answers/042315/what-difference-between-forward-rate-and-spot-rate.asp#:~:text=In%20general%2C%20a%20spot%20rate,or%20%22on%20the%20spot%22) (of crude oil for example). However, the futures market for bitcoin is immune to supply shortages. As previously established, the supply of bitcoin is essentially fixed.
 
 ## Conclusion
 
 With the price of Bitcoin steadily falling over the last two months, and given the anticipated macroeconomic forecast, don't be surprised if the inversion becomes more pronounced.
 
-Sell bitcoin futures to profit from backwardation and potential inversion. Better yet, use a bear call spread on options for October futures contracts to remove the risk associated with bitcoin's price fluctuation.
+Sell bitcoin futures to profit from backwardation and potential extended inversion. Better yet, use a bear call spread on options for October futures contracts to remove the risk associated with bitcoin's price fluctuation.
 
-It's important to be incremental in sizing the short position. Fight. But be sure live to fight another day. This theory of persistent backwardation might not hold. Be prepared to be wrong.
+It's important to be incremental when sizing the short position. Fight. But be sure live to fight another day. This theory of persistent backwardation might not hold. Be prepared to be wrong.
 
 __________
 
