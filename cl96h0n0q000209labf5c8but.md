@@ -6,7 +6,7 @@ __________
 
 I'm bearish on bitcoin ("**BTC**"). [1]
 
-Bitcoin's appeals to its maximalists because of its scarcity. They call it **hard money** because its supply is limited. They believe that its scarcity ensures future **purchasing power**. In other words, they believe that bitcoin doesn't lose value with respect to the price of goods and services: Its value as an asset can never be inflated away because its supply is programmatically capped.
+Bitcoin's appeals to its maximalists because of digital scarcity. They call it **hard money** because its supply is limited. They believe that its scarcity ensures future **purchasing power**. In other words, they believe that bitcoin doesn't lose value with respect to the price of goods and services: Its value as an asset can never be inflated away because its supply is programmatically capped.
 
 Maximalists are at best half correct. 
 
@@ -28,9 +28,9 @@ They purchased bonds.
 
 When the central bank purchases guilts, they usually increase the supply of money. They do this indirectly. When they purchase government bonds, they buy so many that bond yields fall. 
 
-Normally that's considered quantitative easing because it causes the sellers of those bonds to search for yield elsewhere. Scampering for yield, money trickles down to the broader economy.
+Normally that's considered quantitative easing ("**QE**") because it causes the sellers of those bonds to search for yield elsewhere. Scampering for yield, money trickles down to the broader economy.
 
-When the Bank of England buys guilts, it's normally considered quantitative easing. Quantitative easing ("**QE**") is great for the cryptocurrency community. QE tends to push cryptocurrency prices higher. 
+Quantitative easing  is great for the cryptocurrency community. QE fuels speculation and tends to push cryptocurrency prices higher. 
 
 Last week's *intervention* wasn't technically quantitative easing. There's no cascade of money showering down on us plebs. Last week's bond buying commitment was purely to ensure that the market for guilts didn't collapse and result in a financial crisis.
 
@@ -72,17 +72,19 @@ The bitcoin futures market is still fairly **normal** but don't be misled. The m
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665618114907/C_3HiITN6.png align="left")
 
-It would be abnormal for futures prices to be lower at longer maturities. The market is **inverted** when that happens. Yet the market is very slightly inverted between October 2022 and November 2022. Those forward prices indicate abnormality.
+It would be bearish for futures prices to be lower at longer maturities. The market is **inverted** when that happens. Yet the market is very slightly inverted between October 2022 and November 2022. Those forward prices indicate a bear market.
 
-Futures markets will invert if there are supply shortages driving up the [spot price](https://www.investopedia.com/ask/answers/042315/what-difference-between-forward-rate-and-spot-rate.asp#:~:text=In%20general%2C%20a%20spot%20rate,or%20%22on%20the%20spot%22) (of crude oil for example). However, the futures market for bitcoin is immune to supply shortages. As previously established, the supply of bitcoin is essentially fixed.
+Futures markets for commodities, like crude oil, will invert if there are supply shortages driving up the [spot price](https://www.investopedia.com/ask/answers/042315/what-difference-between-forward-rate-and-spot-rate.asp#:~:text=In%20general%2C%20a%20spot%20rate,or%20%22on%20the%20spot%22). However, the futures market for bitcoin is immune to supply shortages. As previously established, the supply of bitcoin is essentially fixed.
+
+Inversion, therefore, indicates a drop in demand.
 
 ## Conclusion
 
-With the price of Bitcoin steadily falling over the last two months, and given the anticipated macroeconomic forecast, don't be surprised if the inversion becomes more pronounced.
+With the price of Bitcoin steadily falling over the last two months, and given the anticipated macroeconomic forecast, don't be surprised if the inversion becomes more pronounced as people pile into US dollars/deposits and money market funds.
 
 Sell bitcoin futures to profit from backwardation and potential extended inversion. Better yet, use a bear call spread on options for October futures contracts to remove the risk associated with bitcoin's price fluctuation.
 
-It's important to be incremental when sizing the short position. Fight. But be sure live to fight another day. This theory of persistent backwardation might not hold. Be prepared to be wrong.
+Of course, it's important to be incremental when sizing the short position. Fight. But be sure live to fight another day. This theory of persistent backwardation might not hold. Be prepared to be wrong.
 
 __________
 
