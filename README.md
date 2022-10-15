@@ -1,5 +1,5 @@
-# The Journal Repository
-
 ![incremental capital banner image](/incremental-capital-header.png)
 
-This is the Github repository of Incremental Capital's [Coin Accumulation Journal](https://www.incremental.capital/).
+Neither Incremental Capital LLC nor any member, employee, contractor, or any person associated with it, (collectively, Incremental Capital), is a registered investment advisor. Opinions, information and trade highlights on this website, or any other forum, including, but not limited to Incremental Capital's [Coin Accumulation Journal](https://www.incremental.capital/), social media, interviews and other broadcast media are not to be relied upon as investment advice, but are solely presented for informational and educational purposes only and should never be construed to represent trading or investment advice. 
+
+All persons using this site are advised to learn the risks involved with trading cryptocurrency futures and options, and to seek qualified, professional advice before engaging in any financial transaction.  Trading derivatives, especially those involving cryptocurrencies highlighted by Incremental Capital and its personnel, is an inherently risky activity. Traders must do their own research, and understand all the risks involved in any transaction. Incremental Capital LLC, while attempting to deliver accurate information, cannot and does not in any way guarantee success on any trade.
