@@ -1,14 +1,14 @@
 # Backwardation Theory
 
-*"He who fights and runs away, lives to fight another day." - [Bob Marley and the Wailers](https://www.youtube.com/watch?v=Q-WnePMd6Lc)*
+*"He who fights and runs away, lives to fight another day." -* [*Bob Marley and the Wailers*](https://www.youtube.com/watch?v=Q-WnePMd6Lc)
 
-__________
+---
 
-I'm bearish on bitcoin ("**BTC**"). [1]
+I'm bearish on bitcoin ("**BTC**"). \[1\]
 
 Bitcoin's appeals to its maximalists because of digital scarcity. They call it **hard money** because its supply is limited. They believe that its scarcity ensures future **purchasing power**. In other words, they believe that bitcoin doesn't lose value with respect to the price of goods and services: Its value as an asset can never be inflated away because its supply is programmatically capped.
 
-Maximalists are at best half correct. 
+Maximalists are at best half correct.
 
 They definitely have the supply curve right. Bitcoin's fixed supply makes it a deflationary. However, they've missed the other influence on asset value (and thus purchasing power). They've not considered demand.
 
@@ -20,17 +20,17 @@ It's true that demand for bitcoin may skyrocket in the future. However, present 
 
 Yesterday the governor of the Bank of England sort of went to war with the pension fund industry. He explained that they have until Friday to clean up their acts.
 
-%[https://www.reuters.com/world/uk/bank-englands-bailey-tells-pension-funds-they-have-3-days-rebalance-2022-10-11/]
+%[https://www.reuters.com/world/uk/bank-englands-bailey-tells-pension-funds-they-have-3-days-rebalance-2022-10-11/] 
 
 He expressed those sentiments because the central bank had to *intervene* in the market for government bonds ("**guilts**"). Last week [guilts](https://www.investopedia.com/terms/g/gilts.asp) were selling *en masse*. So the Bank of England played market maker of last resort.
 
 They purchased bonds.
 
-When the central bank purchases guilts, they usually increase the supply of money. They do this indirectly. When they purchase government bonds, they buy so many that bond yields fall. 
+When the central bank purchases guilts, they usually increase the supply of money. They do this indirectly. When they purchase government bonds, they buy so many that bond yields fall.
 
 Normally that's considered quantitative easing ("**QE**") because it causes the sellers of those bonds to search for yield elsewhere. Scampering for yield, money trickles down to the broader economy.
 
-Quantitative easing  is great for the cryptocurrency community. QE fuels speculation and tends to push cryptocurrency prices higher. 
+Quantitative easing is great for the cryptocurrency community. QE fuels speculation and tends to push cryptocurrency prices higher.
 
 Last week's *intervention* wasn't technically quantitative easing. There's no cascade of money showering down on us plebs. Last week's bond buying commitment was purely to ensure that the market for guilts didn't collapse and result in a financial crisis.
 
@@ -44,21 +44,21 @@ Banks everywhere want to reduce their balance sheets. The activity is called **q
 
 Technically, rising inflation is supposed to be a boon for Bitcoin maximalists. Their hoarding of BTC is supposed to result in skyrocketing bitcoin prices as investors seek shelter from inflation by acquiring the deflationary digital asset. At least, that was their theory.
 
-If BTC were a true inflation hedge, it would act like a [flywheel](https://www.youtube.com/watch?v=7K4W4hA6aV4) when inflation spikes. Unfortunately, that's not the case. And it will never be. 
+If BTC were a true inflation hedge, it would act like a [flywheel](https://www.youtube.com/watch?v=7K4W4hA6aV4) when inflation spikes. Unfortunately, that's not the case. And it will never be.
 
-Until BTC is used more frequently in economic or financial transactions, the demand for it as commodity money will remain lackluster. That's a tragedy for a digital commodity aspiring to outshine gold. 
+Until BTC is used more frequently in economic or financial transactions, the demand for it as commodity money will remain lackluster. That's a tragedy for a digital commodity aspiring to outshine gold.
 
 Gold had luster as a commodity money because society actually used it to settle commercial transactions. That's the one thing the maximalists don't seem to understand.
 
 ## Backwardation Theory
 
-[Bitcoin futures contracts](https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin.quotes.html) are in **normal backwardation** today and it's likely that they will continue to be tomorrow. Normal backwardation means that the price of the futures contract is lower than the spot price. [2]
+[Bitcoin futures contracts](https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin.quotes.html) are in **normal backwardation** today and it's likely that they will continue to be tomorrow. Normal backwardation means that the price of the futures contract is lower than the spot price. \[2\]
 
 This **term structure** expresses bearish sentiment. Meaning that market participants expect the price of bitcoin to drop by the end of term (i.e. October this year). They are selling the October contract. Whether their goal is to hedge or speculate, they want to buy/possess Bitcoin at the anticipated lower price.
 
-Even if central banks resumed quantitative easing, backwardation would persist beyond October. Maximalists are bullish. However, the downward price trend is likely continue for an extended period because bitcoin is useless. 
+Even if central banks resumed quantitative easing, backwardation would persist beyond October. Maximalists are bullish. However, the downward price trend is likely continue for an extended period because bitcoin is useless.
 
-**Contango** means that the futures price of bitcoin is higher than the spot price. Bitcoin futures were generally in contango in 2019.  Those were the *golden* days of bitcoin. The pun is intentional, but in all seriousness, bitcoin's mettle as an inflation hedge had never been tested then.
+**Contango** means that the futures price of bitcoin is higher than the spot price. Bitcoin futures were generally in contango in 2019. Those were the *golden* days of bitcoin. The pun is intentional, but in all seriousness, bitcoin's mettle as an inflation hedge had never been tested then.
 
 Things are different now. The broken flywheel is no longer a secret. With banks everywhere tightening the supply of money and simultaneously raising interest rates, why would anyone want to hold bitcoin now?
 
@@ -66,7 +66,7 @@ Bitcoin doesn't even earn interest.
 
 The US dollar not only earns interest, but also appreciates given the present macroeconomic environment. The Federal Reserve System, the central bank of the United States of America, has declared ad infinitum that it will tighten until the economy breaks.
 
-Even if [the economy goes through the windshield](https://www.youtube.com/watch?v=veKlE6qGeFw), people aren't going to start using Bitcoin more when it does. 
+Even if [the economy goes through the windshield](https://www.youtube.com/watch?v=veKlE6qGeFw), people aren't going to start using Bitcoin more when it does.
 
 The bitcoin futures market is still fairly **normal** but don't be misled. The market is considered "normal" when futures prices are higher at longer maturities. For example, the [forward price](https://www.investopedia.com/ask/answers/042315/what-difference-between-forward-rate-and-spot-rate.asp#:~:text=In%20general%2C%20a%20spot%20rate,or%20%22on%20the%20spot%22) of bitcoin in the March contract is higher than the forward price in the February contract in the graph below.
 
@@ -76,7 +76,7 @@ It would be bearish for futures prices to be lower at longer maturities. The mar
 
 Futures markets for commodities, like crude oil, will invert if there are supply shortages driving up the [spot price](https://www.investopedia.com/ask/answers/042315/what-difference-between-forward-rate-and-spot-rate.asp#:~:text=In%20general%2C%20a%20spot%20rate,or%20%22on%20the%20spot%22). However, the futures market for bitcoin is immune to supply shortages. As previously established, the supply of bitcoin is essentially fixed.
 
-Inversion, therefore, indicates a drop in demand.
+Inversion, therefore, forecasts a drop in demand.
 
 ## Conclusion
 
@@ -86,8 +86,8 @@ Sell bitcoin futures to profit from backwardation and potential extended inversi
 
 Of course, it's important to be incremental when sizing the short position. Fight. But be sure live to fight another day. This theory of persistent backwardation might not hold. Be prepared to be wrong.
 
-__________
+---
 
-*[1] This article is not investment advice. It's strictly an invitation for you to present an opposing opinion in the spirit of learning more about the market.*
+*\[1\] This article is not investment advice. It's strictly an invitation for you to present an opposing opinion in the spirit of learning more about the market.*
 
-*[2] The spot price is ~$19,150 today and the MBTV2 futures contract is ~$19,085.*
+*\[2\] The spot price is ~$19,150 today and the MBTV2 futures contract is ~$19,085.*
